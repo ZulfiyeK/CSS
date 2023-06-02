@@ -1,0 +1,12 @@
+p {
+  color: rebeccapurple;
+  background-color: aliceblue;
+  font: optional;
+}
+h3 {
+  color: red;
+  background-color: yellow;
+  font: italic;
+  text-transform: uppercase;
+  text-align: center;
+}
